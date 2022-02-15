@@ -1,0 +1,11 @@
+.paintMe{
+	box-sizing:content-box;
+	width:100%;
+	height:100%;
+	display:flex;
+	justify-content:center;
+	/* Use colors and gradients */
+}
+p{
+	display:inline;
+}

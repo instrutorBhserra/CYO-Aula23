@@ -1,0 +1,20 @@
+.board{
+	border: 3px solid white;
+	background-color:green;
+
+	min-width: 50px;;
+	min-height: 50px;;
+}
+
+.test{
+	font-size: 20px;
+}
+
+.inside{
+	font-size: 1rem;
+}
+
+.board{
+	/** Use the various unities **/
+	height:100px;
+}

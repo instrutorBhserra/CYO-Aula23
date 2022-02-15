@@ -1,0 +1,21 @@
+.container{
+	display:flex;
+}
+.el{
+	border: 3px solid white;
+	background-color:red;
+
+	min-width: 50px;;
+	min-height: 50px;;
+
+	/* Play with font style, decoration and weight */
+}
+
+/* Change the font of the heading */
+
+/* Arial, Courier, monospace, 'Courier New' , sans-serif*/
+
+
+
+/* Make the second part divs appear as in above  */
+
